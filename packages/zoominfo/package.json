@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@agentic/core": "workspace:*",
-    "jsrsasign": "catalog:",
+    "jsrsasign": "11.0.0",
     "ky": "catalog:",
     "p-throttle": "catalog:",
     "zoominfo-api-auth-client": "catalog:"
