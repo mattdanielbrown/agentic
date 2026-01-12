@@ -12,7 +12,7 @@
     "@agentic/mcp": "workspace:*",
     "@agentic/stdlib": "workspace:*",
     "@ai-sdk/openai": "catalog:",
-    "ai": "catalog:",
+    "ai": "5.0.52",
     "exit-hook": "catalog:",
     "openai": "catalog:",
     "zod": "catalog:"
