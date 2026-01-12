@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@agentic/core": "workspace:*",
-    "@modelcontextprotocol/sdk": "catalog:"
+    "@modelcontextprotocol/sdk": "1.25.2"
   },
   "peerDependencies": {
     "zod": "catalog:"
