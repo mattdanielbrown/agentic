@@ -11,7 +11,7 @@
     "@agentic/mastra": "workspace:*",
     "@agentic/weather": "workspace:*",
     "@ai-sdk/openai": "catalog:",
-    "@mastra/core": "catalog:",
+    "@mastra/core": "1.0.0",
     "zod": "catalog:"
   }
 }
