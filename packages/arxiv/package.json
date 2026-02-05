@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@agentic/core": "workspace:*",
-    "fast-xml-parser": "catalog:",
+    "fast-xml-parser": "5.3.4",
     "ky": "catalog:"
   },
   "peerDependencies": {
