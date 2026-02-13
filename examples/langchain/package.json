@@ -10,7 +10,7 @@
   "dependencies": {
     "@agentic/langchain": "workspace:*",
     "@agentic/stdlib": "workspace:*",
-    "@langchain/core": "catalog:",
+    "@langchain/core": "1.1.14",
     "@langchain/openai": "catalog:",
     "langchain": "catalog:",
     "zod": "catalog:"
